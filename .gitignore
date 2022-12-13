@@ -1,0 +1,6 @@
+#Include emacs generated files
+*~
+
+#Include executables
+a.out
+test*
